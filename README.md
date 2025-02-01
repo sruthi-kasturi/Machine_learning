@@ -36,6 +36,6 @@ Each folder represents a different ML model with a structured approach, includin
 ---
 
 ## 📝 Credits  
-This repository is inspired by the **Udemy course**: *"Learn how to use NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Learning, TensorFlow, and more!"* by **Jose Portilla**. However, the code implementations and explanations are my own.  
+This repository is inspired by the **Udemy course**: *"Learn how to use NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Learning, TensorFlow, and more!"* by **Jose Portilla, Pierian Training**. However, the code implementations and explanations are my own.  
 
 
